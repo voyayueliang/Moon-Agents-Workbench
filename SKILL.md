@@ -1,11 +1,17 @@
 ---
 name: moon-agents-workbench
-description: Moon's expandable agent workbench for content, strategy, product storytelling, portfolio, platform distribution, and project review. Use when the user asks to use Moon Agents Workbench, agent 工作台, 多 agent, multi-agent, 子代理, 主编台, or wants several perspectives such as ordinary reader, editor, field material, logic/evidence, platform translation, business signal, voice, UX, or asset recovery before producing a final draft or action plan.
+description: Moon's expandable agent workbench for content, strategy, product storytelling, portfolio, platform distribution, and project review. Use when the user asks to use Moon Agents Workbench, Moon 台, 工作台, agent 工作台, 主编台, 过一下, 审一下, 看一下这份材料, 多 agent, multi-agent, 子代理, or wants several perspectives such as ordinary reader, editor, field material, logic/evidence, platform translation, business signal, voice, UX, or asset recovery before producing a final draft or action plan.
 ---
 
 # Moon Agents Workbench
 
 Use this skill as Moon's flexible editorial and strategy workbench. Do not treat it as exactly six fixed agents. Select the smallest useful set of perspectives for the task, then synthesize them through a main editor voice.
+
+## Quick Trigger
+
+Treat short phrases such as "工作台过一下", "Moon 台看一下", "帮我审一下", "帮我过一下这份材料", or "这份材料你帮我看一下" as requests to use this workbench when the context is content, strategy, product storytelling, portfolio, platform distribution, or project review.
+
+Do not require the user to name the skill every time. If the request is ambiguous, run a lightweight workbench pass with 3-4 agents instead of asking for a full setup prompt.
 
 ## Core Rule
 

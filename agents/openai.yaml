@@ -1,4 +1,4 @@
 interface:
   display_name: "Moon Agents Workbench"
   short_description: "Expandable agent workbench for Moon"
-  default_prompt: "Use $moon-agents-workbench to review this material with the right mix of reader, editor, evidence, platform, and business agents."
+  default_prompt: "Use $moon-agents-workbench to run a quick workbench pass on this material and synthesize the next step."
